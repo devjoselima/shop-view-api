@@ -15,6 +15,20 @@
       "when": 1722811042911,
       "tag": "0001_narrow_mauler",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722811167287,
+      "tag": "0002_organic_silk_fever",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1722811215428,
+      "tag": "0003_melted_obadiah_stane",
+      "breakpoints": true
     }
   ]
 }
